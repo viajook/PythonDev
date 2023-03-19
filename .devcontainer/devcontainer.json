@@ -1,0 +1,7 @@
+{ 
+    "name": "PCL Python", 
+    "build": { 
+        "dockerfile": "Dockerfile", 
+        "context": ".."
+    }
+} 
